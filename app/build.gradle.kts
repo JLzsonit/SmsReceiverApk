@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace = "com.example.cronosteps"
+    namespace = "apps.cronometerSteps"
     compileSdk = 35
     compileSdkExtension = 22
 
     defaultConfig {
-        applicationId = "com.example.cronosteps"
+        applicationId = "apps.cronometerSteps"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
