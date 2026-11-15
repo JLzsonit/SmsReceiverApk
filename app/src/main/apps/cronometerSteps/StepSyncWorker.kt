@@ -1,4 +1,4 @@
-package com.monsif.cronosteps // Match your chosen namespace
+package apps.cronometerSteps
 
 import android.content.Context
 import androidx.work.CoroutineWorker
