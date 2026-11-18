@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "CronoSteps"
+rootProject.name = "SmsReceiver"
 include(":app")
